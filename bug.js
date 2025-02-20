@@ -1,0 +1,1 @@
+While building an Expo managed workflow app, I encountered an intermittent error related to the `expo prebuild` command.  The error message was inconsistent, sometimes mentioning issues with native modules, other times suggesting problems with the project's configuration. The build would randomly succeed or fail, making debugging incredibly challenging.
